@@ -1,4 +1,4 @@
-import greekSaladImg from "../assets/greek-salad.jpg";
+import greekSaladImg from "../assets/greek-salad.webp";
 import bruchettaImg from "../assets/bruchetta.webp";
 import lemonDessertImg from "../assets/lemon-dessert.jpg";
 
